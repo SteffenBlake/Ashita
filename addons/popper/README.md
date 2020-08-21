@@ -2,9 +2,9 @@
 
 Simple addon to simplify pop items for ???s or any other NPC in the game.
 
-## /pop "<Item-Name>"
+## /pop "Item-Name"
 
-Registers <Item-Name> as the pop for the currently targeted NPC, and simultaneously "pops" it (trades that item)
+Registers "Item-Name" as the pop for the currently targeted NPC, and simultaneously "pops" it (trades that item)
 
 ## /pop
 
