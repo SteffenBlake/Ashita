@@ -17,14 +17,19 @@ For use in manual mode, will execute the next rune to match your queue, in case 
 ## Example usage
 
 /runic Ignis
+
 /runic Ignis
+
 /runic Flabra
 
 (This sets our rune ensamble to be 2x Ignis Runes and 1x Flabra)
 
 /runic exec
+
 /runic exec
+
 /runic exec
+
 (This will execute Ignis, then Ignis, then Flabra)
 
 (If a rune gets removed or wears off, /runic exec will replace it.)
