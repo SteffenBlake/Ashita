@@ -1,0 +1,3 @@
+/sendkey f8 down 
+/wait .1
+/sendkey f8 up

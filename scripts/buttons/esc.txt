@@ -1,0 +1,3 @@
+/sendkey escape down 
+/wait .1
+/sendkey escape up

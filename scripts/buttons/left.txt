@@ -1,0 +1,3 @@
+/sendkey left down
+/wait .1
+/sendkey left up
