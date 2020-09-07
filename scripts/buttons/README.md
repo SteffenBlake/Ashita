@@ -4,6 +4,8 @@ Pretty simple script that enables basic button broadcasting, requires the Multis
 
 Multisend: https://git.ashitaxi.com/Plugins/MultiSend
 
+Based off of: https://www.ffera.com/forums/viewtopic.php?t=151
+
 # How to install
 
 Just copy this buttons folder to your /Ashita/Scripts/ folder, then add:
