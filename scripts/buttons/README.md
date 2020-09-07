@@ -18,23 +18,23 @@ To your Default script
 
 Numpad buttons will get remapped to instead broadcast common menu buttons you may use.
 
-NUMPAD4 > Left
+Shift+NUMPAD4 > Left
 
-NUMPAD8 > Up
+Shift+NUMPAD8 > Up
 
-NUMPAD6 > Right
+Shift+NUMPAD6 > Right
 
-NUMPAD2 > Down
+Shift+NUMPAD2 > Down
 
-NUMPAD0 > Enter
+Shift+NUMPAD0 > Enter
 
-NUMPAD+ > Target npc (Might need to tap this twice sometimes)
+Shift+NUMPAD+ > Target npc (Might need to tap this twice sometimes)
 
-NUMPAD* > Assist leader
+Shift+NUMPAD* > Assist leader
 
-NUMLOCK > Escape
+Shift+NUMLOCK > Escape
 
-NUMPADENTER > Blocked (to prevent accidently hitting it and messing up menu synch between leader/alts)
+Shift+NUMPADENTER / NUMPADENTER > Blocked (to prevent accidently hitting it and messing up menu synch between leader/alts)
 
 # Keep in mind:
 
@@ -43,6 +43,8 @@ Feel free to rebind these, but keep the key reason I have bound these in mind:
 If you try and do these same bindings but to the same button functionality (IE Bind Shift+Enter to broadcast Enter), it can often times double click the button and mess your synch up and double tap.
 
 To have maximum success, I specifically chose to bind unused buttons that dont have menu functionality, to the menu functionality, to prevent the keybindings from accidently tripping over themselves.
+
+Furthermore, we specifically want to bind to Shift, because if you bind to any of NUMPAD2/4/6/8 (Without Ctrl/Shift/Alt/Etc), it prevents you from using Left/Up/Right/Down in the chatlog. We specifically choose shift because Ctrl/Alt are used for Macros.
 
 tl;dr: Dont try and bind Shift+Up to broadcast Up, or Ctrl+Enter to broadcast Enter, etc etc. It can fail sometimes.
 

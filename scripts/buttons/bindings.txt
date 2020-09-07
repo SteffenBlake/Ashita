@@ -1,9 +1,10 @@
-/bind NUMPAD2 down /ms send /exec buttons/down
-/bind NUMPAD8 down /ms send /exec buttons/up
-/bind NUMPAD4 down /ms send /exec buttons/left
-/bind NUMPAD6 down /ms send /exec buttons/right
-/bind NUMPAD0 down /ms send /exec buttons/enter
-/bind NUMPAD* down /ms send /exec buttons/assist
-/bind NUMLOCK down /ms send /exec buttons/esc
-/bind NUMPAD+ down /ms send /exec buttons/f8
+/bind +NUMPAD2 down /ms send /exec buttons/down
+/bind +NUMPAD8 down /ms send /exec buttons/up
+/bind +NUMPAD4 down /ms send /exec buttons/left
+/bind +NUMPAD6 down /ms send /exec buttons/right
+/bind +NUMPAD0 down /ms send /exec buttons/enter
+/bind +NUMPAD* down /ms send /exec buttons/assist
+/bind +NUMLOCK down /ms send /exec buttons/esc
+/bind +NUMPAD+ down /ms send /exec buttons/f8
+/bind +NUMPADENTER down /echo Enter Blocked
 /bind NUMPADENTER down /echo Enter Blocked
