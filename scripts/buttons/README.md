@@ -17,14 +17,24 @@ To your Default script
 Numpad buttons will get remapped to instead broadcast common menu buttons you may use.
 
 NUMPAD4 > Left
+
 NUMPAD8 > Up
+
 NUMPAD6 > Right
+
 NUMPAD2 > Down
+
 NUMPAD0 > Enter
+
 NUMPAD+ > Target npc (Might need to tap this twice sometimes)
+
 NUMPAD* > Assist leader
+
 NUMLOCK > Escape
+
 NUMPADENTER > Blocked (to prevent accidently hitting it and messing up menu synch between leader/alts)
+
+# Keep in mind:
 
 Feel free to rebind these, but keep the key reason I have bound these in mind:
 
