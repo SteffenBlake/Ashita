@@ -1,6 +1,8 @@
 # Auto-RA
 
-Simple modification of Shinzaru's AutoRa addon.
+Simple modification of Shinzaku's AutoRa addon.
+
+https://github.com/Shinzaku/FFXI-Ashita-Addons/tree/master/autora
 
 Automatic ranged attacks after firing 1 shot, or weaponskillings.
 

@@ -23,9 +23,9 @@
 * No warranties are given.
 ]]--
 
-_addon.author   = 'Shinzaru, tweaked by Soralin';
+_addon.author   = 'Shinzaku, tweaked by Soralin';
 _addon.name     = 'AutoRA';
-_addon.version  = '1.0.0';
+_addon.version  = '1.0.1';
 
 require 'common'
 
