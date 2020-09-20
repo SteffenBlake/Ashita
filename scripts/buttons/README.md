@@ -18,23 +18,25 @@ To your Default script
 
 Numpad buttons will get remapped to instead broadcast common menu buttons you may use.
 
-Shift+NUMPAD4 > Left
+WinKey+NUMPAD4 > Left
 
-Shift+NUMPAD8 > Up
+WinKey+NUMPAD8 > Up
 
-Shift+NUMPAD6 > Right
+WinKey+NUMPAD6 > Right
 
-Shift+NUMPAD2 > Down
+WinKey+NUMPAD2 > Down
 
-Shift+NUMPAD0 > Enter
+WinKey+NUMPAD0 > Enter (Use this one for menus, but use the NUMPAD5 version below for interacting with an NPC)
 
-Shift+NUMPAD+ > Target npc (Might need to tap this twice sometimes)
+WinKey+NUMPAD+ > Target npc (Might need to tap this twice sometimes)
 
-Shift+NUMPAD* > Assist leader
+WinKey+NUMPAD* > Assist leader (I find this one is more accurate)
 
-Shift+NUMLOCK > Escape
+WinKey+NUMLOCK > Escape
 
-Shift+NUMPADENTER / NUMPADENTER > Blocked (to prevent accidently hitting it and messing up menu synch between leader/alts)
+WinKey+NUMPAD5 > Staggered Enter hits. Will broadcast the Enter keypress in 0.2 second breaks to each party member, ending in main last. This one should be used when interacting with an NPC, since multiple clients interacting with an NPC at the exact same time often causes some of the clients to fail at this. Use the faster NUMPAD0 version for navigating menus.
+
+WinKey+NUMPADENTER / NUMPADENTER > Blocked (to prevent accidently hitting it and messing up menu synch between leader/alts)
 
 # Keep in mind:
 
@@ -44,7 +46,7 @@ If you try and do these same bindings but to the same button functionality (IE B
 
 To have maximum success, I specifically chose to bind unused buttons that dont have menu functionality, to the menu functionality, to prevent the keybindings from accidently tripping over themselves.
 
-Furthermore, we specifically want to bind to Shift, because if you bind to any of NUMPAD2/4/6/8 (Without Ctrl/Shift/Alt/Etc), it prevents you from using Left/Up/Right/Down in the chatlog. We specifically choose shift because Ctrl/Alt are used for Macros.
+Furthermore, we specifically want to bind to WinKey, because if you bind to any of NUMPAD2/4/6/8 (Without Ctrl/Shift/Alt/Etc), it prevents you from using Left/Up/Right/Down in the chatlog. We specifically choose WinKey because Ctrl/Alt are used for Macros, and Shift can sometimes fail for Left/Right/Up/Down
 
 tl;dr: Dont try and bind Shift+Up to broadcast Up, or Ctrl+Enter to broadcast Enter, etc etc. It can fail sometimes.
 

@@ -1,0 +1,11 @@
+/mst [p1] /exec buttons/enter
+/wait 0.2
+/mst [p2] /exec buttons/enter
+/wait 0.2
+/mst [p3] /exec buttons/enter
+/wait 0.2
+/mst [p4] /exec buttons/enter
+/wait 0.2
+/mst [p5] /exec buttons/enter
+/wait 0.2
+/mst [p0] /exec buttons/enter
